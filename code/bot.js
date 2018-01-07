@@ -1,3 +1,5 @@
+//Our bot that shows you the most recent tweet by @lilpump in the console
+
 console.log('The bot is starting');
 
 var Twit = require('twit');
