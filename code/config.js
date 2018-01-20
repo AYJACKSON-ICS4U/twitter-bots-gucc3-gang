@@ -1,5 +1,5 @@
 //The config file that contains all of the specific user keys related to the Lil Pump Bot
-module.exports = {
+module.exports = { // All of these keys are specific to our twitter account
   consumer_key:         'osMPxoN94tsW86rDxnnrxcCel',
   consumer_secret:      'vycZedFJwOwZkrv4AkDHwTfunvociDqkoXgeyLpDRAw1eJpBHC',
   access_token:         '943150373342031872-QAiWkx5MqEmNSdCA0zLjm4kDWxGlt5y',
